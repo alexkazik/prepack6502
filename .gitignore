@@ -1,0 +1,3 @@
+*.o
+depacker.c
+prepack6502
